@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3923585898",
+    "firebase_url": "https://fireauthexmaple.firebaseio.com",
+    "project_id": "fireauthexmaple",
+    "storage_bucket": "fireauthexmaple.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3923585898:android:0ed30b3c6af0463ce11313",
+        "android_client_info": {
+          "package_name": "cl.kafecode.fire_auth_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3923585898-i2k3n6r33scrmpejqen5a8qhhcqr83of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.kafecode.fire_auth_example",
+            "certificate_hash": "06225f5c25a85b9da816ca86328bde9e59334ef1"
+          }
+        },
+        {
+          "client_id": "3923585898-s4t4md9fdctgepj5kh8bmjpafbitoq6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2L0xFVtSYzxYtewmgjAIEw-9EIEFFfos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3923585898-s4t4md9fdctgepj5kh8bmjpafbitoq6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
